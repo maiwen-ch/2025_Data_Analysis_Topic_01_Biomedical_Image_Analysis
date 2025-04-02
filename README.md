@@ -16,7 +16,7 @@ Supervisors:
 * Dr. Leonid Kostrykin <leonid.kostrykin@bioquant.uni-heidelberg.de>
 * Kerem Celikay <kerem.celikay@bioquant.uni-heidelberg.de>
 * Janis Meyer <janis.meyer@bioquant.uni-heidelberg.de>
-* Tutor (tba)
+* Bastian Mucha	<bastian.mucha@stud.uni-heidelberg.de>
 
 ## Introduction
 
